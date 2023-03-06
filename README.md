@@ -2,7 +2,9 @@
 
 This is an experiment.
 
+### Technical Challenge: It's not a desinger
 
+ChatGPT doesn't really understand the design and how to write CSS for it. For example, it can't create a pallette of warm and cold colours using CSS. This means that I need to use prompt to train it first.
 
 
 ## Getting Started
